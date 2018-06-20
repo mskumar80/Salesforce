@@ -1,0 +1,2 @@
+Basic Apex - Class & A Trigger.
+Trigger works on event
